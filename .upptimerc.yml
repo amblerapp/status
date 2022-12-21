@@ -16,6 +16,10 @@ sites:
     url: https://music-rss.ambler.app/
   - name: MonitoRSS-Tech
     url: https://tech-rss.ambler.app/
+  - name: SVG to PNG
+    url: https://svg-to-png.ambler.app/
+  - name: Notion Widgets
+    url: https://notion-widgets.ambler.app/
     
 status-website:
   cname: status.ambler.app
