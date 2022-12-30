@@ -76,18 +76,20 @@
     "url": "https://monitorss.ambler.app/",
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.app.ico",
     "slug": "monito-rss-ambler",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 376,
-    "timeDay": 214,
-    "timeWeek": 357,
-    "timeMonth": 376,
-    "timeYear": 376,
-    "dailyMinutesDown": {}
+    "time": 384,
+    "timeDay": 344,
+    "timeWeek": 372,
+    "timeMonth": 384,
+    "timeYear": 384,
+    "dailyMinutesDown": {
+      "2022-12-30": 0
+    }
   },
   {
     "name": "MonitoRSS-Music",
