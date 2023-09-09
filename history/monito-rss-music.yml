@@ -1,7 +1,7 @@
 url: https://music-rss.ambler.app/
-status: down
-code: 503
-responseTime: 258
-lastUpdated: 2023-09-09T06:21:05.022Z
+status: up
+code: 200
+responseTime: 214
+lastUpdated: 2023-09-09T06:36:32.094Z
 startTime: 2022-12-21T17:30:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
