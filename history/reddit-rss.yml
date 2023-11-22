@@ -1,7 +1,7 @@
 url: https://reddit-rss.ambler.app/
-status: up
-code: 200
-responseTime: 784
-lastUpdated: 2023-11-21T23:17:15.719Z
+status: down
+code: 502
+responseTime: 835
+lastUpdated: 2023-11-22T18:58:44.914Z
 startTime: 2022-12-21T17:30:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
