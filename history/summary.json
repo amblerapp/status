@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rssbox.ambler.app.ico",
     "slug": "rss-box",
     "status": "down",
-    "uptime": "72.48%",
+    "uptime": "72.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.13%",
+    "uptimeYear": "20.86%",
     "time": 304,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2025-11-03": 68,
+      "2025-11-04": 65,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -313,7 +314,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.ambler.app.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "15.09%",
+    "uptime": "15.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -322,9 +323,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 462,
+    "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-11-03": 68,
+      "2025-11-04": 65,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -678,8 +680,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 1440,
-      "2024-11-04": 1440
+      "2024-11-05": 1440
     }
   },
   {
@@ -688,18 +689,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rssbridge.ambler.app.ico",
     "slug": "rss-bridge",
     "status": "down",
-    "uptime": "72.49%",
+    "uptime": "72.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.13%",
+    "uptimeYear": "20.86%",
     "time": 265,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-11-03": 68,
+      "2025-11-04": 65,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -996,7 +998,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit-rss.ambler.app.ico",
     "slug": "reddit-rss",
     "status": "down",
-    "uptime": "33.93%",
+    "uptime": "33.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1005,9 +1007,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 404,
+    "timeYear": 402,
     "dailyMinutesDown": {
-      "2025-11-03": 68,
+      "2025-11-04": 65,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -1370,8 +1373,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 1440,
-      "2024-11-04": 1440
+      "2024-11-05": 1440
     }
   },
   {
@@ -1380,7 +1382,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.app.ico",
     "slug": "monito-rss-ambler",
     "status": "down",
-    "uptime": "48.36%",
+    "uptime": "48.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1389,9 +1391,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 263,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-11-03": 68,
+      "2025-11-04": 65,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -1754,8 +1757,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 1440,
-      "2024-11-04": 1440
+      "2024-11-05": 1440
     }
   },
   {
@@ -1764,7 +1766,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/music-rss.ambler.app.ico",
     "slug": "monito-rss-music",
     "status": "down",
-    "uptime": "35.30%",
+    "uptime": "35.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1775,7 +1777,8 @@
     "timeMonth": 0,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2025-11-03": 68,
+      "2025-11-04": 65,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -2138,8 +2141,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 1440,
-      "2024-11-04": 1440
+      "2024-11-05": 1440
     }
   },
   {
@@ -2148,7 +2150,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tech-rss.ambler.app.ico",
     "slug": "monito-rss-tech",
     "status": "down",
-    "uptime": "51.13%",
+    "uptime": "51.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2159,7 +2161,8 @@
     "timeMonth": 0,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2025-11-03": 68,
+      "2025-11-04": 65,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -2522,8 +2525,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 1440,
-      "2024-11-04": 1440
+      "2024-11-05": 1440
     }
   },
   {
@@ -2532,18 +2534,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/svg-to-png.ambler.app.ico",
     "slug": "svg-to-png",
     "status": "down",
-    "uptime": "72.51%",
+    "uptime": "72.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.13%",
+    "uptimeYear": "20.86%",
     "time": 271,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 264,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-11-03": 68,
+      "2025-11-04": 65,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -2840,18 +2843,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/notion-widgets.ambler.app.ico",
     "slug": "notion-widgets",
     "status": "down",
-    "uptime": "56.07%",
+    "uptime": "56.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 246,
+    "time": 247,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 237,
+    "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-11-03": 68,
+      "2025-11-04": 65,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -3214,8 +3218,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 1440,
-      "2024-11-04": 1440
+      "2024-11-05": 1440
     }
   }
 ]
